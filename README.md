@@ -1,0 +1,2 @@
+# softether
+SoftEther VPN Script
